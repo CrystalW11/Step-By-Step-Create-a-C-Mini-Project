@@ -1,0 +1,14 @@
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\bin\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.exe
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\bin\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.deps.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\bin\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.runtimeconfig.json
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\bin\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\bin\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.AssemblyInfoInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.AssemblyInfo.cs
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\refint\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.dll
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.pdb
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.genruntimeconfig.cache
+D:\coding_dojo\C_Sharp\C#\CsharpProjects\a-Step-By-Step-Csharp-Cheat-Sheet-Startup\obj\Debug\net9.0\ref\a-Step-By-Step-Csharp-Cheat-Sheet-Startup.dll
